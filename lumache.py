@@ -1,5 +1,5 @@
 """
-Lumache - Python library for cooks and food lovers.
+OAK annuity plugin - is a wordpress plugin which scrap data from remote website.
 """
 
 __version__ = "0.1.0"
